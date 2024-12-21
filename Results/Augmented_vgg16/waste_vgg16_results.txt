@@ -1,0 +1,15 @@
+Accuracy: 0.9356
+F1 Score: 0.9271
+classification Report:
+               precision    recall  f1-score   support
+
+     Healthy       0.94      0.94      0.94      2759
+      Rotten       0.93      0.93      0.93      2182
+
+    accuracy                           0.94      4941
+   macro avg       0.93      0.93      0.93      4941
+weighted avg       0.94      0.94      0.94      4941
+
+Confusion Matrix:
+[[2600  159]
+ [ 159 2023]]

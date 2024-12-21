@@ -1,0 +1,15 @@
+Accuracy: 0.8768
+F1 Score: 0.9097
+classification Report:
+                 precision    recall  f1-score   support
+
+    Recyclable       0.89      0.73      0.81       332
+Non-Recyclable       0.87      0.95      0.91       618
+
+      accuracy                           0.88       950
+     macro avg       0.88      0.84      0.86       950
+  weighted avg       0.88      0.88      0.87       950
+
+Confusion Matrix:
+[[244  88]
+ [ 29 589]]
